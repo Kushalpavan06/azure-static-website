@@ -14,7 +14,8 @@ Deployed a static portfolio website using Azure Storage Static Website feature.
 4. Accessed via public endpoint
 
 ## 🌐 Live Demo
-[Your URL here]
+https://kushalstaticweb123.z29.web.core.windows.net/
 
 ## 📸 Screenshots
-(Add portal + output images)
+
+<img width="3829" height="2103" alt="image" src="https://github.com/user-attachments/assets/82237a96-60db-4d15-a33b-3ee461d1a54d" />
